@@ -1,6 +1,19 @@
-| Download                     | Result                       | Preview                     |
-|------------------------------|------------------------------|-----------------------------|
-| ![Download](download.png)   | ![Result](result.png)        | ![Preview](preview.jpg)    |
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="result.png" alt="Result" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="download.png" alt="Download" width="200">
+    </td>
+    <td align="center">
+      <img src="preview.jpg" alt="Preview" width="200">
+    </td>
+  </tr>
+</table>
+
 
 
 # selful-packages
