@@ -17,7 +17,7 @@ This command installs the python package on the system and makes it accessible f
 selful-packages snap-text
 ```
 
-![Preview](./preview.jpg]
+![Preview](https://github.com/f3riend/custom-cli/blob/main/preview.jpg]
 
 **The output will be like this:** Snap Text
 
