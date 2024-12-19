@@ -1,20 +1,22 @@
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
       <td colspan="2" align="center">
-        <img src="result.png" alt="Result" width="400">
+        <img src="result.png" alt="Result" style="width: 100%;">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="download.png" alt="Download" width="200">
+        <img src="download.png" alt="Download" style="width: 100%;">
       </td>
       <td align="center">
-        <img src="preview.jpg" alt="Preview" width="200">
+        <img src="preview.jpg" alt="Preview" style="width: 100%;">
       </td>
     </tr>
   </table>
 </div>
+
+
 
 
 
