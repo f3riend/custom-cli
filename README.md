@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  <table style="margin: auto;">
+<div align="center">
+  <table>
     <tr>
       <td colspan="2" align="center">
         <img src="result.png" alt="Result" width="400">
@@ -15,6 +15,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
