@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/f3riend/custom-cli/blob/main/preview.jpg" alt="Preview" />
-</p>
+| Download                     | Result                       | Preview                     |
+|------------------------------|------------------------------|-----------------------------|
+| ![Download](download.png)   | ![Result](result.png)        | ![Preview](preview.jpg)    |
+
 
 # selful-packages
 
