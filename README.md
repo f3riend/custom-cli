@@ -1,5 +1,9 @@
 # selful-packages
 
+<p align="center">
+  <img src="https://github.com/f3riend/custom-cli/blob/main/preview.jpg" alt="Preview" />
+</p>
+
 #### Cli ( Command Line Interface ) 
 
 **The reason I developed it** is that I use linux and I like to use the terminal and keyboard shortcuts, so I thought why not integrate my own custom packages into the terminal, and with the keyboard shortcuts I can link the commands I want and run them automatically.
@@ -17,7 +21,7 @@ This command installs the python package on the system and makes it accessible f
 selful-packages snap-text
 ```
 
-![Preview](https://github.com/f3riend/custom-cli/blob/main/preview.jpg)
+
 
 **The output will be like this:** Snap Text
 
